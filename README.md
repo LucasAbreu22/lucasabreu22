@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello World! 👋 Eu sou o Lucas Abreu! Bem-vindo ao meu repositório! Aqui você encontrará vários projetos nos quais eu criei, participei e estudei ou que estou estudando. 
 
-<!--
-**LucasAbreu22/lucasabreu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje eu trabalho com desenvolvimento de aplicações web.
+- 🌱 Estou estudando wordpress para o desenvolvimento de alguns sites.
+- 👯 Estou em busca de oportunidades de emprego.
+- 📫 Contato: lucassantosabreu@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/lucasabreu22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasabreu22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasabreu22&layout=compact&langs_count=7&theme=dracula"/>
+</div>
